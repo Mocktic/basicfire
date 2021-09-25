@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31812451363",
+    "firebase_url": "https://contaq-dbba1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "contaq-dbba1",
+    "storage_bucket": "contaq-dbba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31812451363:android:5aa6d1ed6ab31059c84596",
+        "android_client_info": {
+          "package_name": "com.example.cms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31812451363-7ske1n8obi8nsnld75fb4huhgig94t8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cms",
+            "certificate_hash": "a4cfa15d30e7fdb3490e0343587a378bfca6456f"
+          }
+        },
+        {
+          "client_id": "31812451363-kms64klkjpii6thqr9qbp1telv54mq58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX5vmMesDwuVg0t9YzTLcEziRUs1lmivg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31812451363-kms64klkjpii6thqr9qbp1telv54mq58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
